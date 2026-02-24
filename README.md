@@ -14,6 +14,13 @@ The model exhibits exceptional performance on unseen test data:
 Accuracy: 99.82%.
 Confusion Matrix: Only 9 errors out of 5,000 samples (2 False Positives, 7 False Negatives).
 ROC AUC Score: 0.9999, indicating perfect class separation.
+##  Dataset
+The data used in this project was sourced from **Kaggle**. It contains various student-related features such as study hours, attendance, and demographic information used to predict academic success.
+
+* **Source:** [Kaggle](https://www.kaggle.com/)
+* **Target Variable:** `result` (Pass/Fail)
+ **Direct Link:** [Student Performance Dataset on Kaggle](https://www.kaggle.com/datasets/kundanbedmutha/student-performance-dataset)
+ **Note:** Due to file size/licensing, the raw data is not included in this repo. Please download it from the link above to run the notebook
 
 # Author
 ** Aditya Yadav **
