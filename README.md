@@ -15,5 +15,5 @@ Accuracy: 99.82%.
 Confusion Matrix: Only 9 errors out of 5,000 samples (2 False Positives, 7 False Negatives).
 ROC AUC Score: 0.9999, indicating perfect class separation.
 
-# Author.
+# Author
 ** Aditya Yadav **
